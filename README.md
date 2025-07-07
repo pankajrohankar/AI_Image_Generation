@@ -1,0 +1,1 @@
+## Generating image using OpenAI's "dall-e-3" model
